@@ -1,0 +1,11 @@
+$git branch p1
+$git branch p2
+$git checkout p1
+$git checkout p2
+$git add .
+$git status
+$git push --set-upstream origin p1
+$git push --set-upstream origin p2
+$git merge p1
+$git pull https://github.com/ikerserna/examenm5uf2.git
+$git merge p2 

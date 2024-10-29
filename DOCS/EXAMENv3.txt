@@ -1,0 +1,6 @@
+$ git pull https://github.com/ikerserna/examenm5uf2.git
+$ git status
+$ git add .
+$ git status
+$ git commit -m "Afegir arxius carpeta template"
+$ git push https://github.com/ikerserna/examenm5uf2.git master

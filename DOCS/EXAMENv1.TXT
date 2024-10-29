@@ -1,1 +1,6 @@
 $ git init examenm5uf2
+$ git remote add origin https://github.com/ikerserna/examenm5uf2.git
+$ git status
+$git add .
+$git commit -m ""
+$ git push https://github.com/ikerserna/examenm5uf2.git master

@@ -1,0 +1,5 @@
+git status
+git branch mywork
+git checkout mywork
+git add .
+git push

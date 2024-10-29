@@ -1,0 +1,5 @@
+git status
+git add .
+git status
+git push https://github.com/ikerserna/examenm5uf2.git master
+

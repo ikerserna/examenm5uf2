@@ -1,2 +1,5 @@
-aa
-
+$ git clone https://github.com/ikerserna/examenm5uf2.git examenm5uf2
+$ git status
+$ git add .
+$ git commit -m "Afegir arxiu LICENSE"
+$ git push https://github.com/ikerserna/examenm5uf2.git master
